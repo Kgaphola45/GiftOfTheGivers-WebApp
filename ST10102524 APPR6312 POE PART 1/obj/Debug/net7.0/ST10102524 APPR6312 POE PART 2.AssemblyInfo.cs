@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ST10102524 APPR6312 POE PART 2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35485004a3d92ee07da0977d8f10d35cf7d50911")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+199ecc4db7c411d3f5e82adc82ce6db0e17d3204")]
 [assembly: System.Reflection.AssemblyProductAttribute("ST10102524 APPR6312 POE PART 2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ST10102524 APPR6312 POE PART 2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

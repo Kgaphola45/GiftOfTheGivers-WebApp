@@ -11661,11 +11661,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emmanuel_Kgaphola\\Desktop\\saturday\\Git\\New folder\\Monday\\ST10102524 Part 2\\ST10102524 APPR6312 POE PART 1\\ST10102524 APPR6312 POE PART 2.csproj",
+      "projectUniqueName": "C:\\Users\\Emmanuel_Kgaphola\\Desktop\\Vs code\\ST10102524\\ST10102524 APPR6312 POE PART 1\\ST10102524 APPR6312 POE PART 2.csproj",
       "projectName": "ST10102524 APPR6312 POE PART 2",
-      "projectPath": "C:\\Users\\Emmanuel_Kgaphola\\Desktop\\saturday\\Git\\New folder\\Monday\\ST10102524 Part 2\\ST10102524 APPR6312 POE PART 1\\ST10102524 APPR6312 POE PART 2.csproj",
+      "projectPath": "C:\\Users\\Emmanuel_Kgaphola\\Desktop\\Vs code\\ST10102524\\ST10102524 APPR6312 POE PART 1\\ST10102524 APPR6312 POE PART 2.csproj",
       "packagesPath": "C:\\Users\\Emmanuel_Kgaphola\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emmanuel_Kgaphola\\Desktop\\saturday\\Git\\New folder\\Monday\\ST10102524 Part 2\\ST10102524 APPR6312 POE PART 1\\obj\\",
+      "outputPath": "C:\\Users\\Emmanuel_Kgaphola\\Desktop\\Vs code\\ST10102524\\ST10102524 APPR6312 POE PART 1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
