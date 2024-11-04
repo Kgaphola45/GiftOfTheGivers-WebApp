@@ -6,8 +6,12 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project>
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAAISALeBsfkqGkWm8K/TccQAAAAACAAAAAAAQZgAAAAEAACAAAABX29bMq+ZIVYcgE2CJicDvaPFqOEjr7STI+su/4HH9swAAAAAOgAAAAAIAACAAAACshfWhhbUYssGI2RIQcwwmKqcFMTWxThSX4QqbgVEGvoAAAACjfkv27q7mVnSGLdRs9Xt7zRGgbfH1puCgzu9TMVBR6urEIMm7lVDcbm3fb3dAbwnTg01qo9mqNBV2SdVw/MzATviQ759f0aN4yKvV0jqt4N5GMIJCzSi+NyQh28U6DVRRa0DKqJTPM14dyk4AzUDER1R3/bpNqf++lytl1KqNyUAAAABfIi5PnxNLOTrkd5nwdLbf7RyiCCX3tK3oV5yK5oZlS3SJziCyWJbdPNrb7j2Te7OpZ2aehjFZNQoRcHwz8zSZ</EncryptedPassword>
-    <History>True|2023-09-22T17:28:37.3472959Z;True|2023-09-22T19:06:26.5891535+02:00;</History>
+    <History>False|2024-11-04T02:16:15.1307522Z||;False|2024-11-04T04:09:49.4075377+02:00||;True|2023-09-22T19:28:37.3472959+02:00||;True|2023-09-22T19:06:26.5891535+02:00||;</History>
     <LastFailureDetails />
   </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=tcp:manp.database.windows.net,1433%3bInitial Catalog=man%3bPersist Security Info=False%3bUser ID=st10102524%3bPassword=Kg%40ph0la45%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
 </Project>
